@@ -1,1 +1,1 @@
-Bypass group policy "User Configuration/Start Menu and Taskbar/Remove and deny access to the Shutdown, Restart, Sleep, and Hibernate commands"
+Bypass group policy "Remove and prevent access to the Shut Down, Restart, Sleep, and Hibernate commands"
